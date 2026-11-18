@@ -1,0 +1,281 @@
+{
+  "heading": "G8_Area Of Rhombus And Kite",
+  "topics": [
+    {
+      "heading": "Area Of Rhombus And Kite",
+      "questions": [
+
+
+  {
+    "questionNo": 1,
+    "question": [
+      "The area of the following rhombus is ______cm².<br><img src='./assests/images/question/12.png' width='30%'><br>"
+    ],
+    "input": [
+      ""
+    ],
+    "answer": [
+      "144"
+    ]
+  },
+  {
+    "questionNo": 2,
+    "question": [
+      "A rhombus has diagonals 18 cm and 10 cm. Find its area."
+    ],
+    "options": [
+      {
+        "text": "30 cm²"
+      },
+      {
+        "text": "35 cm²"
+      },
+      {
+        "text": "90 cm²"
+      },
+      {
+        "text": "80 cm²"
+      }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 3,
+    "question": [
+      "The area of a rhombus is 80 cm² and one diagonal is 16 cm. Find the other diagonal."
+    ],
+    "options": [
+      {
+        "text": "6 cm"
+      },
+      {
+        "text": "10 cm"
+      },
+      {
+        "text": "12 cm"
+      },
+      {
+        "text": "8 cm"
+      }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 4,
+    "question": [
+      "A rhombus-shaped garden has diagonals of 40 m and 30 m. What is its area?"
+    ],
+    "options": [
+      {
+        "text": "300 m²"
+      },
+      {
+        "text": "200 m²"
+      },
+      {
+        "text": "400 m²"
+      },
+      {
+        "text": "600 m²"
+      }
+    ],
+    "answer": 3
+  },
+  {
+    "questionNo": 5,
+    "question": [
+      "Find the area of the following rhombus.<br><img src='./assests/images/question/13.png' width='30%'><br>",
+      "Area = ______ cm²"
+    ],
+    "input": [
+      ""
+    ],
+    "answer": [
+      "336"
+    ]
+  },
+  {
+    "questionNo": 6,
+    "question": [
+      "Diagonals are 9.5 cm and 6.4 cm. Find the area."
+    ],
+    "options": [
+      {
+        "text": "24.0 cm²"
+      },
+      {
+        "text": "24.5 cm²"
+      },
+      {
+        "text": "23.4 cm²"
+      },
+      {
+        "text": "30.4 cm²"
+      }
+    ],
+    "answer": 3
+  },
+  {
+    "questionNo": 7,
+    "question": [
+      "The area of the following rhombus is ______cm²<br><img src='./assests/images/question/14.png' width='30%'>"
+    ],
+    "input": [
+      ""
+    ],
+    "answer": [
+      "3100"
+    ]
+  },
+  {
+    "questionNo": 8,
+    "question": [
+      "The area of the following rhombus is 300 cm² and one diagonal is shown in the diagram.<br><img src='./assests/images/question/15.png' width='30%'><br>",
+      "The other diagonal is ______ cm."
+    ],
+    "input": [
+      ""
+    ],
+    "answer": [
+      "30"
+    ]
+  },
+  {
+    "questionNo": 9,
+    "question": [
+      "If a kite has diagonals 18 cm and 10 cm, what is its area?"
+    ],
+    "options": [
+      {
+        "text": "80 cm²"
+      },
+      {
+        "text": "40 cm²"
+      },
+      {
+        "text": "60 cm²"
+      },
+      {
+        "text": "90 cm²"
+      }
+    ],
+    "answer": 3
+  },
+  {
+    "questionNo": 10,
+    "question": [
+      "The area of a kite is 90 cm² and one diagonal is 10 cm. Find the other diagonal."
+    ],
+    "options": [
+      {
+        "text": "18 cm"
+      },
+      {
+        "text": "15 cm"
+      },
+      {
+        "text": "16 cm"
+      },
+      {
+        "text": "None of these"
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 11,
+    "question": [
+      "The area of the following kite is ______ m².<br><img src='./assests/images/question/16.png' width='30%'>"
+    ],
+    "input": [
+      ""
+    ],
+    "answer": [
+      "480"
+    ]
+  },
+  {
+    "questionNo": 12,
+    "question": [
+      "If a kite has an area of 400 cm² and one diagonal is 25 cm, then the other diagonal is ______cm."
+   
+    ],
+    "input": [
+      ""
+    ],
+    "answer": [
+      "32"
+    ]
+  },
+  {
+    "questionNo": 13,
+    "question": [
+      "Diagonals of a rhombus are 7.5 cm and 3.2 cm. Find the area."
+    ],
+    "options": [
+      {
+        "text": "12.0 cm²"
+      },
+      {
+        "text": "11.5 cm²"
+      },
+      {
+        "text": "13.5 cm²"
+      },
+      {
+        "text": "15.0 cm²"
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 14,
+    "question": [
+      "The longer diagonal of a rhombus is twice the length of the shorter diagonal. The area of the rhombus is 196 cm².",
+      "The length of the shorter diagonal is ______ cm."
+    ],
+    "input": [
+      ""
+    ],
+    "answer": [
+      "14"
+    ]
+  },
+  {
+    "questionNo": 15,
+    "question": [
+      "The sum of the diagonals of a kite is 42 cm. The longer diagonal is twice the shorter diagonal.",
+      "Find the area of the kite.<br>",
+      "Area = ______ cm²"
+    ],
+    "input": [
+      ""
+    ],
+    "answer": [
+      "196"
+    ]
+  },
+  {
+    "questionNo": 16,
+    "question": [
+      "The sum of the diagonals of a kite is 42 cm. The longer diagonal is 8 cm longer than the shorter diagonal.",
+      "Find the area of the kite.<br>",
+      "Area = ______ cm²"
+    ],
+    "input": [
+      ""
+    ],
+    "answer": [
+      "212.5"
+    ]
+  }
+
+
+
+
+]
+
+
+    }
+  ]
+}
